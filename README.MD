@@ -1,3 +1,8 @@
+*THIS IS A DEMO TO SHOW USING SASS INSTEAD OF POSTCSS!*
+
+👉 [Main repository](https://github.com/jeffreyvr/tailpress)
+
+__
 <p><img src="https://tailpress.io/images/logo.svg" width="200" alt="Laravel Mix"></p>
 
 # Introduction
